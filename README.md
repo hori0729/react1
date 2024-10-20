@@ -1,8 +1,21 @@
-# React + Vite
+# Inicio de sesión con React + Vite
+clonar el proyecto:
+```bash
+git clone
+```
+ingresar a la carpeta creada al clonar el proyecto
+```bash
+cd nombre_proyecto
+```
+instalar las dependencias con npm 
+```bash
+npm install 
+````
+correr el proyecto 
+```bash
+npm run dev 
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## demo img 
+<img src="./src/assets/sesion.png" />
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
