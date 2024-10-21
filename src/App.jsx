@@ -1,4 +1,5 @@
 import Hola from "./components/Hola"
+import Footer from "./components/Footer" 
 import './App.css'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Hola ></Hola>
+      <Footer></Footer>
     </>
   )
 }
