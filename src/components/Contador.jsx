@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 function Contador() {
+  console.log("Desde contador")
   // const frutas = ['pera', 'platano']
   const dato1 = 0
   const [contador, setContador] = useState(dato1);
