@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 
 const GestorDeTareas = () => {
+  const alumnos = ["Gabriel", "Hector", "Joaquin", "Ramon", "Vicente", "Victor"]
   const [tareas, setTareas] = useState([]);
   const [tareaAEditar, setTareaAEditar] = useState(null);
   const [nuevaTarea, setNuevaTarea] = useState('');
