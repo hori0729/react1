@@ -1,0 +1,14 @@
+.contenedor {
+  color: white;
+}
+
+ul {
+  padding: 2em;
+  background-color: aqua;
+  border-radius: 1.5em;
+}
+ul li {
+  margin-bottom: 1em;
+  padding: 1em;
+  background-color: blueviolet;
+}
