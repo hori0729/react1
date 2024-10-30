@@ -11,10 +11,10 @@
 ## Roles a realizar:
 
 - `Joaquin`: ya creo la estructura de carpetas y archivos y completo src/desafio_colaboradores/Formulario.jsx
-- `Ramon`: medificar y agregar cambios que faltan al archivo src/App2.jsx
-- `Hector`: agregar codigo al archivo de src/desafio_colaboradores/Alert.jsx
-- `Gabriel`: agregar codigo al archivo de src/desafio_colaboradores/Buscador.jsx
-- `Victor`: agregar codigo al archivo de src/App2.jsx para importar los componentes creados
+- `Ramon`: modificar y agregar cambios que faltan al archivo src/App2.jsx
+- `Hector`: agregar código al archivo de src/desafio_colaboradores/Alert.jsx
+- `Gabriel`: agregar código al archivo de src/desafio_colaboradores/Buscador.jsx
+- `Victor`: agregar código al archivo de src/App2.jsx para importar los componentes creados
 - `Vicente`: agregar estilo al archivo src/desafio_colaboradores/Formulario.css y verificar que todo este okey el archivo src/App2.jsx
 
 ## iniciando
