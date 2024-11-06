@@ -1,4 +1,4 @@
-// import Posts from './apis/Posts'  // Comentado si no se utiliza
+// import Posts from './apis/Posts'  
 import PostsBuscador from './apis/PostBuscador';
 import DragonBall from './apis/DragonBalll';
 import DragonBuscador from './apis/DragonBuscador';
