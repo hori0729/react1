@@ -15,7 +15,7 @@ function DragonBall() {
   return (
     <>
       <div className="contenedor">
-        <h1> Todos los posts creados </h1>
+        <h1> Todos los personajes de dragonball creados </h1>
         {
           posts.map(
             pos => (
