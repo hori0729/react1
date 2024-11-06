@@ -74,3 +74,9 @@ para subir todos los cambios
 ```bash
 git push -u origin master
 ```
+
+## Creando rutas con react
+
+```bash
+npm install react-router-dom
+```
